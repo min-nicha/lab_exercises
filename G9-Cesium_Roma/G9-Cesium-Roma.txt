@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>My First Webpage </title>
+
+            <meta chgarset="UTF-8">
+            <meta name="author" content="Pearl Roma">
+            <meta name="keywords" content="HTML, CSS, JavaScript">
+            <meta name="revised" content="16-08-2024">
+            <link rel="icon" href="icon.png" type="image/gif">
+      </head>
+      <body>
+            hi sir, ano pwedeng gawin kapag 'di pa rin nakamove-on? huhuhuhu
+      </body>
+</html>
